@@ -3,27 +3,13 @@ Anonymous page for the review.
 
 | Samples | type   | Ours | Baseline(Single) | Baseline(Prompt) | Baseline(GPT2+YiYu) |
 |---------|--------|------|------------------|------------------|---------------------|
-| 1       | **music sheet** | <a href="pdf/1_ours.pdf" class="image fit">link</a>| <a href="pdf/1_single.pdf" class="image fit">link</a> | <a href="pdf/1_prompt.pdf" class="image fit">link</a> | <a href="pdf/1_naive.pdf" class="image fit">link</a> |
-|         | **melody** |  |  | |  |
-| 2       | **music sheet** | <a href="pdf/2_ours.pdf" class="image fit">link</a>| <a href="pdf/2_single.pdf" class="image fit">link</a> | <a href="pdf/2_prompt.pdf" class="image fit">link</a> | <a href="pdf/2_naive.pdf" class="image fit">link</a> |
-|         | **melody** |  |  | |  |
-| 3       | **music sheet** | <a href="pdf/3_ours.pdf" class="image fit">link</a>| <a href="pdf/3_single.pdf" class="image fit">link</a> | <a href="pdf/3_prompt.pdf" class="image fit">link</a> | <a href="pdf/3_naive.pdf" class="image fit">link</a> |
-|         | **melody** | https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/51a1b266-e232-4bd6-964a-ad20e372d0db | https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/dcc13a00-bae1-4ae0-b30b-a2fa30242dac
- | https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/407012bc-7578-40e5-bbdb-e0eaa2ca3795
- | https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/4070dc13-59f5-4b13-b5ed-27f81f7994cd |
-| 4       | **music sheet** | <a href="pdf/4_ours.pdf" class="image fit">link</a>| <a href="pdf/4_single.pdf" class="image fit">link</a> | <a href="pdf/4_prompt.pdf" class="image fit">link</a> | <a href="pdf/4_naive.pdf" class="image fit">link</a> |
-|         | **melody** |  |  | |  |
-| 5       | **music sheet** | <a href="pdf/5_ours.pdf" class="image fit">link</a>| <a href="pdf/5_single.pdf" class="image fit">link</a> | <a href="pdf/5_prompt.pdf" class="image fit">link</a> | <a href="pdf/5_naive.pdf" class="image fit">link</a> |
-|         | **melody** |  |  | |  |
-
-
-
-
-
-
-
-
-
-
-
-
+| a       | **music sheet** | <a href="pdf/5_ours.pdf" class="image fit">link</a>| <a href="pdf/5_single.pdf" class="image fit">link</a> | <a href="pdf/5_prompt.pdf" class="image fit">link</a> | <a href="pdf/5_naive.pdf" class="image fit">link</a> |
+|         | **melody** | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/06cdbfc3-6701-4f59-9213-e2f3c798078e"> | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/03ec6b96-e44c-439c-ba46-4b334e0e08aa"> | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/7d70dd63-05ec-4554-bc6d-6cfc1ef1fabc"> | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/25a91520-8d92-487b-ab81-ece8bba2b7f7"> |
+| b       | **music sheet** | <a href="pdf/2_ours.pdf" class="image fit">link</a>| <a href="pdf/2_single.pdf" class="image fit">link</a> | <a href="pdf/2_prompt.pdf" class="image fit">link</a> | <a href="pdf/2_naive.pdf" class="image fit">link</a> |
+|         | **melody** | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/22096332-09ec-4983-a0e8-f0122599d90b"> | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/dfcdbe6e-5f53-4151-8839-904548b26822"> | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/b03b5792-6964-45c8-96e7-b3c9ef4743f4"> | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/6b93699f-ef4b-45ec-919b-c889a27e1e4c"> |
+| c       | **music sheet** | <a href="pdf/3_ours.pdf" class="image fit">link</a>| <a href="pdf/3_single.pdf" class="image fit">link</a> | <a href="pdf/3_prompt.pdf" class="image fit">link</a> | <a href="pdf/3_naive.pdf" class="image fit">link</a> |
+|         | **melody** | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/24e2ac94-2bf2-4478-99b3-67a696c19596"> | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/7a2d5bc0-e829-421f-b54a-2646411255c5"> | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/ec39959b-b2d7-4850-a5cc-ee47cf7dd9aa"> | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/71cccd46-9d3d-41dc-b43d-f0d1a6ae84d9"> |
+| d       | **music sheet** | <a href="pdf/1_ours.pdf" class="image fit">link</a>| <a href="pdf/1_single.pdf" class="image fit">link</a> | <a href="pdf/1_prompt.pdf" class="image fit">link</a> | <a href="pdf/1_naive.pdf" class="image fit">link</a> |
+|         | **melody** | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/883c56c6-071e-46d3-b6f1-caf153109c3a"> | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/5ee7f6c7-0e0c-41c2-8a98-21d29443c186"> | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/b61d9aaf-1898-4fa6-9f1f-f0f6299bdcb4"> | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/a7a24ee0-ec10-4579-a8f8-6456fe3b9b48"> |
+| e       | **music sheet** | <a href="pdf/4_ours.pdf" class="image fit">link</a>| <a href="pdf/4_single.pdf" class="image fit">link</a> | <a href="pdf/4_prompt.pdf" class="image fit">link</a> | <a href="pdf/4_naive.pdf" class="image fit">link</a> |
+|         | **melody** | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/44cfb2c2-7b25-430d-9a19-793295e63d71"> | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/17f24d2e-94c2-4af8-a457-042c159fcc06"> | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/20e9173e-0b76-4d25-a839-d491b737c964"> | <video src="https://github.com/sldienfk/Lyric-and-melody-generation/assets/135147415/3a4f79f5-8447-4835-aa4a-4b251c33a1fd"> |
